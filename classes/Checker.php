@@ -74,7 +74,7 @@ class Checker {
                 return true;
             }
             else{
-                return ($result);
+                return false;
             }
         }
          else{
